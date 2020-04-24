@@ -1,4 +1,4 @@
-Simple RGB LED
+# Simple RGB LED
 
 Lights an RGB LED (common cathode; long pin is GND) the color purple.  
 
